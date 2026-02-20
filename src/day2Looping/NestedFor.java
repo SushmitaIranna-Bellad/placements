@@ -1,4 +1,4 @@
-package Looping;
+package day2Looping;
 
 public class NestedFor {
     public static void main(String[] args) {

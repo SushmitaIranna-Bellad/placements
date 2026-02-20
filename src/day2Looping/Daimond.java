@@ -1,4 +1,4 @@
-package Looping;
+package day2Looping;
 
 public class Daimond {
     public static void main(String[] args) {

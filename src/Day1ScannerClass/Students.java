@@ -1,4 +1,4 @@
-package ScannerClass;
+package Day1ScannerClass;
 
 import java.util.Scanner;
 
