@@ -1,6 +1,6 @@
 package Day2Method;
 
-public class callbyvalue {
+class callbyvalue {
     static void swap(int[] arr){
         int temp=arr[0];
         arr[0]=arr[1];
