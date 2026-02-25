@@ -28,6 +28,10 @@ public class BankAccount {
         System.out.println("accountholder name" + accountholder);
         System.out.println("current balance" + balance);
     }
+
+    public double getBalance() {
+        return balance;
+    }
 }
     class Bank {
         public static void main(String[] args) {

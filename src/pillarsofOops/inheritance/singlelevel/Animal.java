@@ -1,4 +1,4 @@
-package Oopsconcept.inheritance.singlelevel;
+package pillarsofOops.inheritance.singlelevel;
 
 public class Animal {
     void eat(){

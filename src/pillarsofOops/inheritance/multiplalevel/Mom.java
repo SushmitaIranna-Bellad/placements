@@ -1,4 +1,4 @@
-package Oopsconcept.inheritance.multiplalevel;
+package pillarsofOops.inheritance.multiplalevel;
 
 public class Mom {
     void cook(){

@@ -1,4 +1,4 @@
-package Oopsconcept.inheritance;
+package pillarsofOops.inheritance;
 
 public class Person {
     String Fname;

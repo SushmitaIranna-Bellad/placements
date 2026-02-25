@@ -1,4 +1,4 @@
-package Polymorphism;
+package pillarsofOops.Polymorphism;
 
 public class india {
     void capital(){

@@ -1,4 +1,4 @@
-package Oopsconcept.inheritance.heirarchial;
+package pillarsofOops.inheritance.heirarchial;
 
 public class Animal {
     void eat(){
