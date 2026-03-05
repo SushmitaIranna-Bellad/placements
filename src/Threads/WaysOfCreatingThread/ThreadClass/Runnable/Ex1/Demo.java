@@ -7,8 +7,10 @@ class MyThread extends Thread{
 
 public class Demo {
     public static void main(String[] args) {
-        MyThread t1=new MyThread();
-        t1.start(); //this start will make thread and start running if we given that as run() then it will run the code as normal thread
+        MyThread t1=new MyThread();  //t1 is thread but Thread is class it does not support multiple inheritance
+        MyThread t2=new MyThread(); //here we created single thread class but if we are creating multiple objects to that thread it is not possible
+        t1.start();
+        //this start will make thread and start running if we given that as run() then it will run the code as normal thread
     }
     //this is another Thread
 }

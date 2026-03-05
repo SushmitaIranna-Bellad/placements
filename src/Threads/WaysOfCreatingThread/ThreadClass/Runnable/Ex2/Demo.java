@@ -9,8 +9,8 @@ class MyThread extends Thread{
 public class Demo {
     static void main(String[] args) {
         MyThread t1=new MyThread();
-        t1.start();
-        for(int i=1;i<=100;i++) {
+        t1.start(); //instead of start if we created run() then it will execute like normal thea it won't create thread
+        for(int i=1;i<=100;i++) { //writing for loop writing thread inside main function
             System.out.println("Main Thread Running" + i);
         }
 
